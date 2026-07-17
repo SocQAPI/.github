@@ -66,12 +66,21 @@ SocQ is built for public data workflows. It is not an official API of the social
 
 ## Public examples
 
-- [`SocQAPI/socq-examples`](https://github.com/SocQAPI/socq-examples) — canonical cURL, Node.js, and Python examples across the SocQ API catalog
-- [`SocQAPI/instagram-search-api`](https://github.com/SocQAPI/instagram-search-api) — focused public Instagram profile search workflow
-- [`SocQAPI/youtube-transcript-api`](https://github.com/SocQAPI/youtube-transcript-api) — focused public YouTube transcript workflow
+[`SocQAPI/socq-examples`](https://github.com/SocQAPI/socq-examples) is the
+canonical directory for all 20 focused API repositories.
 
-Each repository keeps API keys server-side, follows the shared asynchronous task
-flow, and uses synthetic fixtures instead of customer data.
+| Instagram | Facebook | YouTube | TikTok |
+| --- | --- | --- | --- |
+| [Posts](https://github.com/SocQAPI/instagram-posts-api) | [Pages](https://github.com/SocQAPI/facebook-pages-api) | [Channels](https://github.com/SocQAPI/youtube-channels-api) | [Profiles](https://github.com/SocQAPI/tiktok-profiles-api) |
+| [Comments](https://github.com/SocQAPI/instagram-comments-api) | [Posts](https://github.com/SocQAPI/facebook-posts-api) | [Videos](https://github.com/SocQAPI/youtube-videos-api) | [Videos](https://github.com/SocQAPI/tiktok-videos-api) |
+| [Followers Count](https://github.com/SocQAPI/instagram-followers-count-api) | [Comments](https://github.com/SocQAPI/facebook-comments-api) | [Channel Videos](https://github.com/SocQAPI/youtube-channel-videos-api) | [Comments](https://github.com/SocQAPI/tiktok-comments-api) |
+| [Reels](https://github.com/SocQAPI/instagram-reels-api) |  | [Comments](https://github.com/SocQAPI/youtube-comments-api) | [Search](https://github.com/SocQAPI/tiktok-search-api) |
+| [Search](https://github.com/SocQAPI/instagram-search-api) |  | [Shorts](https://github.com/SocQAPI/youtube-shorts-api) | [Hashtags](https://github.com/SocQAPI/tiktok-hashtags-api) |
+|  |  | [Search](https://github.com/SocQAPI/youtube-search-api) |  |
+|  |  | [Transcripts](https://github.com/SocQAPI/youtube-transcript-api) |  |
+
+Each repository keeps API keys server-side, implements the complete asynchronous
+task and pagination flow, and uses synthetic fixtures instead of customer data.
 
 ## Developer resources
 
