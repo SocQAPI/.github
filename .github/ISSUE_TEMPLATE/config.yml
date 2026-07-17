@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: SocQ API documentation
+    url: https://docs.socq.ai
+    about: Review endpoint contracts and integration guidance.
+  - name: Private support
+    url: mailto:support@socq.ai
+    about: Use email for account, billing, security, or sensitive questions.
