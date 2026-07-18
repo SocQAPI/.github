@@ -67,7 +67,7 @@ SocQ is built for public data workflows. It is not an official API of the social
 ## Public examples
 
 [`SocQAPI/socq-examples`](https://github.com/SocQAPI/socq-examples) is the
-canonical directory for all 24 focused API repositories.
+canonical directory for all 32 focused API repositories.
 
 | Instagram | Facebook | YouTube | TikTok | X |
 | --- | --- | --- | --- | --- |
@@ -78,6 +78,18 @@ canonical directory for all 24 focused API repositories.
 | [Search](https://github.com/SocQAPI/instagram-search-api) |  | [Shorts](https://github.com/SocQAPI/youtube-shorts-api) | [Hashtags](https://github.com/SocQAPI/tiktok-hashtags-api) |  |
 |  |  | [Search](https://github.com/SocQAPI/youtube-search-api) |  |  |
 |  |  | [Transcripts](https://github.com/SocQAPI/youtube-transcript-api) |  |  |
+
+### LinkedIn
+
+| Profiles | Companies | Posts | Jobs |
+| --- | --- | --- | --- |
+| [LinkedIn Profiles API](https://github.com/SocQAPI/linkedin-profiles-api) | [LinkedIn Companies API](https://github.com/SocQAPI/linkedin-companies-api) | [LinkedIn Posts API](https://github.com/SocQAPI/linkedin-posts-api) | [LinkedIn Jobs API](https://github.com/SocQAPI/linkedin-jobs-api) |
+
+### Reddit
+
+| Posts | Comments | Subreddit Posts | Search |
+| --- | --- | --- | --- |
+| [Reddit Posts API](https://github.com/SocQAPI/reddit-posts-api) | [Reddit Comments API](https://github.com/SocQAPI/reddit-comments-api) | [Reddit Subreddit Posts API](https://github.com/SocQAPI/reddit-subreddit-posts-api) | [Reddit Search API](https://github.com/SocQAPI/reddit-search-api) |
 
 Each repository keeps API keys server-side, implements the complete asynchronous
 task and pagination flow, and uses synthetic fixtures instead of customer data.
