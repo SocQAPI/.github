@@ -67,7 +67,7 @@ SocQ is built for public data workflows. It is not an official API of the social
 ## Public examples
 
 [`SocQAPI/socq-examples`](https://github.com/SocQAPI/socq-examples) is the
-canonical directory for all 39 focused API repositories.
+canonical directory for all 42 focused API repositories.
 
 | Instagram | Facebook | YouTube | TikTok | X |
 | --- | --- | --- | --- | --- |
@@ -102,6 +102,12 @@ canonical directory for all 39 focused API repositories.
 | Profiles | Posts | User Posts |
 | --- | --- | --- |
 | [Threads Profiles API](https://github.com/SocQAPI/threads-profiles-api) | [Threads Posts API](https://github.com/SocQAPI/threads-posts-api) | [Threads User Posts API](https://github.com/SocQAPI/threads-user-posts-api) |
+
+### Facebook Marketplace
+
+| Location Search | Listing Search | Item Details |
+| --- | --- | --- |
+| [Facebook Marketplace Location Search API](https://github.com/SocQAPI/facebook-marketplace-location-search-api) | [Facebook Marketplace Search API](https://github.com/SocQAPI/facebook-marketplace-search-api) | [Facebook Marketplace Item API](https://github.com/SocQAPI/facebook-marketplace-item-api) |
 
 Each repository keeps API keys server-side, implements the complete asynchronous
 task and pagination flow, and uses synthetic fixtures instead of customer data.
