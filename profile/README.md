@@ -67,7 +67,7 @@ SocQ is built for public data workflows. It is not an official API of the social
 ## Public examples
 
 [`SocQAPI/socq-examples`](https://github.com/SocQAPI/socq-examples) is the
-canonical directory for all 32 focused API repositories.
+canonical directory for all 39 focused API repositories.
 
 | Instagram | Facebook | YouTube | TikTok | X |
 | --- | --- | --- | --- | --- |
@@ -90,6 +90,18 @@ canonical directory for all 32 focused API repositories.
 | Posts | Comments | Subreddit Posts | Search |
 | --- | --- | --- | --- |
 | [Reddit Posts API](https://github.com/SocQAPI/reddit-posts-api) | [Reddit Comments API](https://github.com/SocQAPI/reddit-comments-api) | [Reddit Subreddit Posts API](https://github.com/SocQAPI/reddit-subreddit-posts-api) | [Reddit Search API](https://github.com/SocQAPI/reddit-search-api) |
+
+### Pinterest
+
+| Profiles | Pins | User Pins | Search |
+| --- | --- | --- | --- |
+| [Pinterest Profiles API](https://github.com/SocQAPI/pinterest-profiles-api) | [Pinterest Pins API](https://github.com/SocQAPI/pinterest-pins-api) | [Pinterest User Pins API](https://github.com/SocQAPI/pinterest-user-pins-api) | [Pinterest Search API](https://github.com/SocQAPI/pinterest-search-api) |
+
+### Threads
+
+| Profiles | Posts | User Posts |
+| --- | --- | --- |
+| [Threads Profiles API](https://github.com/SocQAPI/threads-profiles-api) | [Threads Posts API](https://github.com/SocQAPI/threads-posts-api) | [Threads User Posts API](https://github.com/SocQAPI/threads-user-posts-api) |
 
 Each repository keeps API keys server-side, implements the complete asynchronous
 task and pagination flow, and uses synthetic fixtures instead of customer data.
