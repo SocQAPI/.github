@@ -67,7 +67,7 @@ SocQ is built for public data workflows. It is not an official API of the social
 ## Public examples
 
 [`SocQAPI/socq-examples`](https://github.com/SocQAPI/socq-examples) is the
-canonical directory for all 46 focused API repositories.
+canonical directory for all 51 focused API repositories.
 
 | Instagram | Facebook | YouTube | TikTok | X |
 | --- | --- | --- | --- | --- |
@@ -114,6 +114,12 @@ canonical directory for all 46 focused API repositories.
 | Ad Search | Ad Details | Company Ads | Company Search |
 | --- | --- | --- | --- |
 | [Facebook Ad Library Search API](https://github.com/SocQAPI/facebook-ad-library-search-api) | [Facebook Ad Library Ad API](https://github.com/SocQAPI/facebook-ad-library-ad-api) | [Facebook Ad Library Company Ads API](https://github.com/SocQAPI/facebook-ad-library-company-ads-api) | [Facebook Ad Library Company Search API](https://github.com/SocQAPI/facebook-ad-library-company-search-api) |
+
+### TikTok Shop
+
+| Search | Store Products | Product Details | Product Reviews | User Showcase |
+| --- | --- | --- | --- | --- |
+| [TikTok Shop Search API](https://github.com/SocQAPI/tiktok-shop-search-api) | [TikTok Shop Products API](https://github.com/SocQAPI/tiktok-shop-products-api) | [TikTok Shop Product API](https://github.com/SocQAPI/tiktok-shop-product-api) | [TikTok Shop Product Reviews API](https://github.com/SocQAPI/tiktok-shop-product-reviews-api) | [TikTok Shop User Showcase API](https://github.com/SocQAPI/tiktok-shop-user-showcase-api) |
 
 Each repository keeps API keys server-side, implements the complete asynchronous
 task and pagination flow, and uses synthetic fixtures instead of customer data.
